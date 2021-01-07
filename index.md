@@ -25,7 +25,7 @@ Thus, Cloud Hosting operates on the concept of "Divide and Rule."
 
 ### Example of Cloud Hosting
 
-The best example of Cloud Hosting is Google itself. 
+The best example of [Cloud Hosting is Google itself](https://cloud.google.com/).
 
 Google has its resources spread over numerous (hundreds in number) servers on the cloud. 
 
