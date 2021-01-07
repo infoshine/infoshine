@@ -45,7 +45,7 @@ Moreover, in Cloud Hosting, there is the paramount importance of the quality of 
 
 ### Future of Cloud Hosting
 
-Large enterprises primarily used <a href="https://www.earningguys.com/hosting/cloud-hosting/">cloud Hosting</a>. 
+Large enterprises primarily used [cloud Hosting](https://www.earningguys.com/hosting/cloud-hosting/). 
 
 However, this is now changing as several mid-size organizations are making a move to the cloud arena. 
 
